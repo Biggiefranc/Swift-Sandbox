@@ -1,2 +1,3 @@
-print("Hello,World")
-// Cmd + R
+ var franca = "euu"
+print("Hello, \(franca) ")
+
